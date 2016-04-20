@@ -1,0 +1,4 @@
+https://docs.angularjs.org/api
+https://egghead.io/
+https://thinkster.io/
+https://meetup.com 
